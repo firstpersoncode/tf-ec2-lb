@@ -1,0 +1,10 @@
+# terraform-jenkins
+
+#### Prerequisites
+- DOMAIN SERVER
+- SSH KEYPAIR
+- HOSTED ZONE ROUTE 53
+- BUCKET S3
+- GIT REPOSITORY
+- CONTAINER REGISTRY
+- CI/CD
