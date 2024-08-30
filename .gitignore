@@ -3,7 +3,7 @@
 infra/.terraform
 infra/.terraform.lock.hcl
 infra/*.tfvars
-infra/remote-backend_s3.sh
+infra/remote_backend_s3.sh
 
 # dependencies
 /node_modules
